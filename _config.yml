@@ -2,3 +2,4 @@ theme: jekyll-theme-slate
 title: hello strangers
 description: this is some description
 future: true
+timezone: TIMEZONE
