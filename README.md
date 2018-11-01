@@ -1,10 +1,14 @@
-## Welcome to GitHub Pages changed
+## github.io 페이지 제작하기
 
-You can use the [editor on GitHub](https://github.com/vegart/vegart.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- 1. ###주참고 : [jekyllrb-ko.github.io](https://jekyllrb-ko.github.io/docs/structure/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+들어가기에 앞서, markdown 파일 syntax 를 정리해본다.
 
-### Markdown
+1. ### Highlighting Code Block
+
+```markdown
+문법은 '```markdown' 으로 시작해서 '```' 로 닫아주면된다.
+```
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
