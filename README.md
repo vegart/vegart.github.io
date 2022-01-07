@@ -37,7 +37,7 @@ $ flutter run -d chrome
 $ flutter build web
 ```
 * STEP2. Replace
-    - github.io 를 호스팅하는데 이용되는 repository(=vegart.github.io) 소스를 build/web 하위의 소스로 replace해야함
+    - github.io 를 호스팅하는데 이용되는 repository(=vegart.github.io) 소스를 build web 명령 실행을 통해 생성된 build/web 하위의 소스로 replace해야함
     - 해당 repo를 clone한 이후, flutter 의 build/web 소스로 덮어쓰고 다시 remote로 올려주기
 ---
 #### 4. Appendix
