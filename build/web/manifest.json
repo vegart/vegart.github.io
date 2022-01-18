@@ -1,6 +1,6 @@
 {
-    "name": "test_web",
-    "short_name": "test_web",
+    "name": "gitio",
+    "short_name": "gitio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
