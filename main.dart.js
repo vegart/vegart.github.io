@@ -24010,7 +24010,7 @@ atL:function atL(a){this.a=a},
 atK:function atK(){},
 II:function II(){},
 NK(a,b,c,d,e,f,g,h){var s=a==null?B.l:a,r=b==null?23:b,q=d==null?25:d
-return new A.NJ(c,g,s,r,q,f===!0,e===!0,null)},
+return new A.NJ(c,g,s,r,q,f===!0,e!==!1,null)},
 NJ:function NJ(a,b,c,d,e,f,g,h){var _=this
 _.d=a
 _.e=b
@@ -81276,7 +81276,7 @@ h=s.go
 if(h===$){l=s.a
 k=l.z
 h=s.fy
-if(h===$)h=s.fy=!l.d&&s.ghH()?0.85:0.98
+if(h===$)h=s.fy=!l.d&&s.ghH()?0.85:0.95
 h=s.go=k.a*h}l=s.gUm()
 g=s.dy
 if(g===$)g=s.dy=s.a.z.a*0.5
