@@ -85385,7 +85385,7 @@ r=p.gcX(p)
 q=J.cu(p.gea().r)&&!p.gex()?0:p.gWj()
 o=p.cy=s-2*o-2*r-q}return o},
 guK(){var s=this.db
-return s===$?this.db=this.gVQ()*0.9:s},
+return s===$?this.db=this.gVQ()*0.8:s},
 gkt(){var s=this.dy
 return s===$?this.dy=!1:s},
 YD(a,b){var s,r,q,p={},o=this.x,n=!(o===$?this.x=!1:o)
@@ -85433,7 +85433,7 @@ d=a0.gex()&&a0.gkt()
 c=a0.gB5()
 b=a0.gw4()
 a=t.p
-a=A.b([A.bG(A.b([new A.Cw(n,m,new A.axw(a0,a4),new A.axx(a0),new A.axy(a0,a4),new A.axz(a0,a4),l,new A.axA(a0),new A.bz("diary-actions-"+p,o)),k,j,A.aQ(A.k8(A.aSA(h,d,g,new A.bz("diary-md-"+i,o),a0.guK(),13,new A.axB(a0),new A.R(c,b),a0.a.e),B.aT),6)],a),B.n,a1,B.r,B.o)],a)
+a=A.b([A.bG(A.b([new A.Cw(n,m,new A.axw(a0,a4),new A.axx(a0),new A.axy(a0,a4),new A.axz(a0,a4),l,new A.axA(a0),new A.bz("diary-actions-"+p,o)),k,j,A.aQ(A.k8(A.aSA(h,d,g,new A.bz("diary-md-"+i,o),a0.guK(),13,new A.axB(a0),new A.R(c,b),a0.a.e),B.aT),5)],a),B.n,a1,B.r,B.o)],a)
 if(a0.gUI()){p=a0.gUI()
 a.push(A.bF(new A.Bw(a4.G(t.w).f.a.b*0.35,B.m,a1),a1,new A.bz("loading-"+p,o),a1))}return A.a2(a1,new A.bD(B.S,a1,B.L,B.z,a,a1),B.h,a1,a1,B.Cf,a1,s,a1,a1,new A.a9(q,r,q,r),a1,a1,a2)}}
 A.axC.prototype={
