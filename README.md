@@ -101,8 +101,8 @@ Flowcharts for projects or for any activities that are worth tracking
 - ### TODO: Menus [ TBD ]
   |Name|Description|Completion Status|
   |--|--|--|
-  - | Manage sprints | TODO
-  Dashboard | Dashboard | TODO
+  | Sprints | Manage sprints | TODO
+  | Dashboard | Dashboard | TODO
   
 
 ***[TOP](#go-home)***
