@@ -13,6 +13,7 @@
   - ### [Blog](#go-blog)
   - ### [Diary](#go-diary)
   - ### [ TODO: Playground](#go-playground)
+  - ### [ TODO: Sprints](#go-sprints)
 - ## B. [Last commit](#go-commit)
 - ## C. [Memo](#go-memo)
 
@@ -91,6 +92,22 @@
 ***[TOP](#go-home)***
 ---
 
+## TODO: Sprints <a name="go-sprints"></a>
+- ### Description
+```description_p
+Flowcharts for projects or for any activities that are worth tracking
+```
+- ### Authorization Level [ FULL / RESTRICTED / ADMIN ] = <ins>RESTRICTED</ins>
+- ### TODO: Menus [ TBD ]
+  |Name|Description|Completion Status|
+  |--|--|--|
+  - | Manage sprints | TODO
+  Dashboard | Dashboard | TODO
+  
+
+***[TOP](#go-home)***
+---
+
 > # B. Last commit <a name="go-commit"></a>
 | ID | Date | Description
 |--|--|--|
@@ -102,6 +119,7 @@ GIT-101 | 2022-09-11 | Settings @ Theme
 | Type (MEMO / TBD / TODO / ISSUE) | Date | Menu | Description |
 |--|--|--|--|
  TBD  | 2022-09-11 | DIARY | Add searchbar? No?
+ TODO | 2022-09-11 | Settings | Tags should be managed.. dashboard seems suitable.
 
 
 ***[TOP](#go-home)***
