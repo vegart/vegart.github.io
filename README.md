@@ -12,7 +12,7 @@
   - ### [Settings](#go-settings)
   - ### [Blog](#go-blog)
   - ### [Diary](#go-diary)
-  - ### [ TODO: Playground](#go-playground)
+  - ### [Playground](#go-playground)
   - ### [ TODO: Sprints](#go-sprints)
 - ## B. [Last commit](#go-commit)
 - ## C. [Memo](#go-memo)
@@ -75,20 +75,16 @@
 
 ***[TOP](#go-home)***
 ---
-## TODO: Playground <a name="go-playground"></a>
+## Playground <a name="go-playground"></a>
 - ### Description
 ```description_p
-1. Jdoodle webview for different languages
-2. Save code for future references
-3. Can be searched
+Jdoodle webviews for different languages
 ```
-- ### Authorization Level [ FULL / RESTRICTED / ADMIN ] = <ins>RESTRICTED</ins>
+- ### Authorization Level [ FULL / RESTRICTED / ADMIN ] = <ins>FULL</ins>
 - ### TODO: Menus [ TBD ]
   |Name|Description|Completion Status|
   |--|--|--|
-  Playground | Write code in jdoodle webview | TODO
-  Memo | Manage code written for future reference | TODO
-
+  Playground | Write code in jdoodle webviews | COMPLETE
 ***[TOP](#go-home)***
 ---
 
