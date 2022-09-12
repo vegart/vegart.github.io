@@ -2,9 +2,9 @@
 # [vegart.github.io](https://vegart.github.io)<a name="go-home"></a>
 ---
 
-| Last Updated | 
-|--|
-2022-09-11 
+| Last Updated | STATUS
+|--|--|
+2022-09-13| COMPLETE
 
 
 > # Table of contents
@@ -13,7 +13,7 @@
   - ### [Blog](#go-blog)
   - ### [Diary](#go-diary)
   - ### [Playground](#go-playground)
-  - ### [ TODO: Sprints](#go-sprints)
+  - ### ~~[Sprints](#go-sprints) -> SUSPENDED~~
 - ## B. [Last commit](#go-commit)
 - ## C. [Memo](#go-memo)
 
@@ -81,24 +81,24 @@
 Jdoodle webviews for different languages
 ```
 - ### Authorization Level [ FULL / RESTRICTED / ADMIN ] = <ins>FULL</ins>
-- ### TODO: Menus [ TBD ]
+- ### Menus
   |Name|Description|Completion Status|
   |--|--|--|
   Playground | Write code in jdoodle webviews | COMPLETE
 ***[TOP](#go-home)***
 ---
 
-## TODO: Sprints <a name="go-sprints"></a>
-- ### Description
+## ~~Sprints~~ <a name="go-sprints"></a>
+- ### ~~Description~~
 ```description_p
 Flowcharts for projects or for any activities that are worth tracking
 ```
-- ### Authorization Level [ FULL / RESTRICTED / ADMIN ] = <ins>RESTRICTED</ins>
-- ### TODO: Menus [ TBD ]
+- ### ~~Authorization Level [ FULL / RESTRICTED / ADMIN ]~~ = <ins>RESTRICTED</ins>
+- ### ~~Menus~~
   |Name|Description|Completion Status|
   |--|--|--|
-  | Sprints | Manage sprints | TODO
-  | Dashboard | Dashboard | TODO
+  | Sprints | Manage sprints | SUSPENDED
+  | Dashboard | Dashboard | SUSPENDED
   
 
 ***[TOP](#go-home)***
@@ -115,8 +115,9 @@ GIT-101 | 2022-09-11 | Settings @ Theme
 | Type (MEMO / TBD / TODO / ISSUE) | Date | Menu | Description |
 |--|--|--|--|
  TBD  | 2022-09-11 | DIARY | Add searchbar? No?
- TODO | 2022-09-11 | Settings | Tags should be managed.. dashboard seems suitable.
-
+ SUSPENDED | 2022-09-11 | Settings | Tags should be managed.. dashboard seems suitable.
+ SUSPENDED | 2022-09-13 | Sprints | Jira is enough.. not motivated enough to create this feature
+ MEMO | 2022-09-13 | webview on IOS not working atm .. need a cable to debug safari.
 
 ***[TOP](#go-home)***
 ---
