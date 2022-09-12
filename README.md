@@ -93,7 +93,7 @@ Jdoodle webviews for different languages
 ```description_p
 Flowcharts for projects or for any activities that are worth tracking
 ```
-- ### ~~Authorization Level [ FULL / RESTRICTED / ADMIN ]~~ = <ins>RESTRICTED</ins>
+- ### ~~Authorization Level [ FULL / RESTRICTED / ADMIN ] = <ins>RESTRICTED</ins>~~
 - ### ~~Menus~~
   |Name|Description|Completion Status|
   |--|--|--|
@@ -117,7 +117,7 @@ GIT-101 | 2022-09-11 | Settings @ Theme
  TBD  | 2022-09-11 | DIARY | Add searchbar? No?
  SUSPENDED | 2022-09-11 | Settings | Tags should be managed.. dashboard seems suitable.
  SUSPENDED | 2022-09-13 | Sprints | Jira is enough.. not motivated enough to create this feature
- MEMO | 2022-09-13 | webview on IOS not working atm .. need a cable to debug safari.
+ MEMO | 2022-09-13 | Playground |  webview on IOS not working atm .. need a cable to debug safari.
 
 ***[TOP](#go-home)***
 ---
