@@ -2,9 +2,11 @@
 # [vegart.github.io](https://vegart.github.io)<a name="go-home"></a>
 ---
 
-| Last Updated | STATUS
-|--|--|
-2022-09-13| COMPLETE
+| Last Updated | STATUS | REMARK
+|--|--|--|
+2022-09-13| COMPLETE | |
+2023-07-23| COMPLETE | package updates |
+
 
 
 > # Table of contents
