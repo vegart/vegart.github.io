@@ -1,11 +1,12 @@
 ---
 # [vegart.github.io](https://vegart.github.io)<a name="go-home"></a>
+> [JIRA tracker](https://trumenshow.atlassian.net/jira/software/projects/GIT/boards/6)
 ---
 
 | Last Updated | STATUS | REMARK
 |--|--|--|
 2022-09-13| COMPLETE | |
-2023-07-23| COMPLETE | package updates |
+2023-07-23| COMPLETE | GIT-110 |
 
 
 
