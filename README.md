@@ -1,7 +1,5 @@
----
-# [vegart.github.io](https://vegart.github.io)<a name="go-home"></a>
+# [vegart.github.io](https://vegart.github.io)
 > [JIRA tracker](https://trumenshow.atlassian.net/jira/software/projects/GIT/boards/6)
----
 
 | Last Updated | STATUS | REMARK
 |--|--|--|
